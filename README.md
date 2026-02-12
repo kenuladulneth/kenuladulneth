@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://fb.com/kenula dulneth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kenula dulneth" height="30" width="40" /></a>
 <a href="https://instagram.com/kenula dulneth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kenula dulneth" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kenula dulneth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kenula dulneth" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@KenulaDulneth-f1n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kenula dulneth" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
