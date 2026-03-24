@@ -12,7 +12,7 @@
       
 - 🌱 I’m currently learning **Java,Python,C#**
 
-- 👨‍💻 All of my projects are available at [https://kenuladulnethprotfolio.gt.tc/](https://kenuladulnethprotfolio.gt.tc/)
+- 👨‍💻 All of my projects are available at [https://kenuladulnethprotfolio.gt.tc/](https://kenuladulnethprotfolio.page.gd/)
 
 - 💬 Ask me about **HTML,CSS,JAVA,PHP,JS**
 
